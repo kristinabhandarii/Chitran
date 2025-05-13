@@ -1,0 +1,12 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+updated/
+checkpoints/
+venv/
+.venv/
